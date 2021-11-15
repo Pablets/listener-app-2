@@ -1,4 +1,6 @@
-# listener-app
+# vue-keyboard-navigation
+
+## An experiment to implement a "keyboard-navigable" UI
 
 ## Project setup
 ```
